@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm an Internet Engineering student at Politeknik Elektronika Negeri Surabaya.  
-Currently building **CampusDash**, a personal desktop app for managing assignments, expenses, and academic performance.  
+Currently building a personal desktop app for managing assignments, expenses, and academic performance.  
 I'm interested in networking, backend systems, and practical software engineering.
 
 ---
