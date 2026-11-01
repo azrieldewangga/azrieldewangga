@@ -4,15 +4,15 @@
 ## 🤙🏻 About me
 
 * 🎓 Fun fact: I've been studying at PENS since 2024 and I'm currently doing an internship at a confidential company
-* 💙 Loving Linux, Bash, Python, IP and OSPF Routing
+* 💙 Loving Linux, Bash, Python, IP and Network Routing 
 
 ## 📖 I'm currently learning and enthusiast
 
 * 🧠 AI - Python, Machine Learning, Edge AI on microcontrollers (AIoT), Model Training and Evaluation
-* 🤖 IoT - ESP32, MQTT, Node-RED, RFID, Raspberry Pi, Wearable Sensor Monitoring, Secure IoT Communication
+* 🤖 IoT - ESP32, MQTT, Node-RED, RFID, Raspberry Pi, Secure IoT Communication
 * 📡 Network Engineering - TCP/IP, Network Programming (Socket), Firewall, VLAN, OSPF
 * ☁️ Cloud Engineering - Cloud-hosted MQTT Broker, Docker, Linux VPS, REST API Integration
-* 🐧 Linux - Ubuntu, Debian, Bash Scripting, Raspberry Pi OS, Server Administration
+* 🐧 Linux - Ubuntu, Debian, Bash Scripting, Raspberry Pi OS.
 ---
 
 ## 🌐 Socials
