@@ -1,4 +1,4 @@
-<p align="center"><img src="readme.gif" width="300"></p>
+<p align="center"><img src="readme.gif" width="600"></p>
 <h3 align="center">halohalohalo!!! I'm Azriel (‾◡◝)</h3>
 
 ## 🤙🏻 About me
