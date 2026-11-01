@@ -1,13 +1,12 @@
 ## Hi there 👋
 
 I'm an Internet Engineering student at Politeknik Elektronika Negeri Surabaya.  
-Currently building a personal desktop app for managing assignments, expenses, and academic performance.  
 I'm interested in networking, backend systems, and practical software engineering.
 
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irlazriel)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azzr1el)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azrielpens@gmail.com)
 
 ---
@@ -18,17 +17,6 @@ I'm interested in networking, backend systems, and practical software engineerin
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-
----
-
-## 🌐 Web & App
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat&logo=electron&logoColor=9FEAF9)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 
 ---
 
@@ -55,14 +43,3 @@ I'm interested in networking, backend systems, and practical software engineerin
 
 ---
 
-## 🚀 Featured Project
-**CampusDash**  
-Personal offline-first desktop app to manage student life:
-- Assignment & expense tracking  
-- Academic performance overview  
-- Built with Electron, React, TypeScript, and SQLite  
-
----
-
-## 💰 Donate me:
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AzrielDewangga)
