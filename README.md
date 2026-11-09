@@ -1,5 +1,5 @@
 <p align="center"><img src="readme.gif" width="600"></p>
-<h3 align="center">halohalohalo!!! I'm Azriel (‾◡◝)</h3>
+<h3 align="center">halohalohalo!!! Azriel here (‾◡◝)</h3>
 
 ## About me
 
