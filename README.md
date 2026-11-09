@@ -1,7 +1,7 @@
 <p align="center"><img src="readme.gif" width="600"></p>
 <h3 align="center">halohalohalo!!! I'm Azriel (‾◡◝)</h3>
 
-## 🤙🏻 About me
+## About me
 
 * 🎓 Fun fact: I've been studying at PENS since 2024 and I'm currently doing an internship at a confidential company
 * 💙 Loving Linux, Bash, Python, IP and Network Routing 
